@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StoriesSocialMedia</string>
+    <string name="SERVER">https://76340d38983c.ngrok.io</string>
+    <string name="NGROKSERVER">https://76340d38983c.ngrok.io</string>
+</resources>
